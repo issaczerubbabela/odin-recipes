@@ -1,0 +1,39 @@
+body.home{
+    background-image: url("images/sastra_entrance.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 {
+    background-color: aqua;
+    color: red;
+    font-weight: 500;
+    text-align: center;
+}
+
+h1 {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+}
+
+img.recipe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.recipe-links {
+    background-color: white;   
+}
+.go-top {
+    background-color: cyan;
+    text-align: right;
+}
+
+.go-home {
+    background-color: cyan;
+    text-align: center;
+    offset: 50%;
+}
