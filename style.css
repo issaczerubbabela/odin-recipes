@@ -27,13 +27,12 @@ img.recipe {
 .recipe-links {
     background-color: white;   
 }
-.go-top {
+
+button {
     background-color: cyan;
-    text-align: right;
+    color:brown
 }
 
-.go-home {
-    background-color: cyan;
-    text-align: center;
-    offset: 50%;
+.top-wrap{
+    text-align:right;
 }
